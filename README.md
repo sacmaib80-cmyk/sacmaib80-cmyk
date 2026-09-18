@@ -8,6 +8,14 @@ First-year Computer Science student. Most of the work below is solo—product, d
 
 ## Flagship work
 
+**[The Crystal Ballroom](projects/crystal-ballroom/README.md)** · [explore the live 3D scene](https://crystal-ballroom-lunaria.web.app/)
+
+[![A walkable crystal ballroom with a glass dome, chandeliers, stained glass, and Lunaria](projects/crystal-ballroom/hall.png)](https://crystal-ballroom-lunaria.web.app/)
+
+A walkable fantasy hall built with a scripted Blender-to-Three.js pipeline. The scene combines stained glass, a reflective floor, lighting effects, collision, and Lunaria, a rigged and animated character. [Build notes and credits](projects/crystal-ballroom/README.md).
+
+`Blender · Three.js · WebGL · 3D character animation`
+
 **[MERIDIAN ONE](https://github.com/sacmaib80-cmyk/meridian-pen)** · [live](https://sacmaib80-cmyk.github.io/meridian-pen/)
 
 A scroll-driven product site whose pen, internals, lighting, ink trace, and post-processing are generated live in raw WebGL2. No image or 3D-model assets.
@@ -22,7 +30,7 @@ A bilingual vertical-city game-site concept where one depth value drives chronol
 
 **[SakuraQ](https://github.com/sacmaib80-cmyk/sakuraq)** · [web app](https://sakuraq-b7f96.web.app/welcome.html)
 
-A quest-style focus system shipped as an Android APK and installable PWA, with OS-level alarms, cloud sync, plans, user-defined goals, and full-scene cosmetics.
+A quest-style focus system shipped as an Android APK and installable PWA. Recent iterations added calendar-based plans, user-defined goal tags, cloud sync, OS-level alarms, and full-scene cosmetics.
 
 `Vanilla JS · Capacitor · Firebase · PWA`
 
@@ -62,9 +70,9 @@ A deliberate native rewrite of SakuraQ with timestamp-safe timers and 22 tests a
 
 **[Code Dojo](https://github.com/sacmaib80-cmyk/code-dojo)** · [live](https://sakuraq-b7f96.web.app/dojo/)
 
-A one-file teaching site with 217 exercises across 21 progressively unlocked stages.
+A teaching site with 217 exercises across 21 progressively unlocked stages. The live version now also has shared code and flowchart rooms, multi-user cursors, TypeScript diagnostics, and saved code runs; the repository holds the standalone exercise app.
 
-`Single-file HTML · CSS · JavaScript`
+`HTML · CSS · JavaScript · TypeScript tooling · realtime collaboration`
 
 ---
 
