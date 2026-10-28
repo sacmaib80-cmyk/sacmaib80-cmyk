@@ -2,7 +2,7 @@
 
 I build complete systems from scratch: shipped mobile software, browser games, real-time WebGL experiences, and the measurement tools that tell me when they fail.
 
-First-year Computer Science student. Most of the work below is solo—product, design, code, testing, deployment, and the honest postmortem.
+First-year Computer Science student.
 
 ---
 
@@ -30,6 +30,8 @@ A bilingual vertical-city game-site concept where one depth value drives chronol
 
 **[SakuraQ](https://github.com/sacmaib80-cmyk/sakuraq)** · [web app](https://sakuraq-b7f96.web.app/welcome.html)
 
+<a href="https://github.com/sacmaib80-cmyk/sakuraq"><img src="https://raw.githubusercontent.com/sacmaib80-cmyk/sakuraq/main/screens/sakuraq-1-home.png" width="240" alt="SakuraQ home screen: daily points, a mascot in a room scene, and the bottom navigation"></a>
+
 A quest-style focus system shipped as an Android APK and installable PWA. Recent iterations added calendar-based plans, user-defined goal tags, cloud sync, OS-level alarms, and full-scene cosmetics.
 
 `Vanilla JS · Capacitor · Firebase · PWA`
@@ -52,11 +54,15 @@ A live, evidence-first map of local automations, logs, scheduler state, failures
 
 **[Pixel Clash](https://github.com/sacmaib80-cmyk/pixel-clash)**
 
+[![Two pixel fighters trading blows under a torii gate at night](https://raw.githubusercontent.com/sacmaib80-cmyk/pixel-clash/main/screens/pixelclash-loop.gif)](https://github.com/sacmaib80-cmyk/pixel-clash)
+
 A peer-to-peer pixel fighter with four-character rooms, fixed-step simulation, code-drawn art, combos, and finishers.
 
 `React · Canvas 2D · WebRTC · Capacitor`
 
 **[Moonfall](https://github.com/sacmaib80-cmyk/moonfall)**
+
+[![A top-down village at dusk with villagers walking between houses around a campfire](https://raw.githubusercontent.com/sacmaib80-cmyk/moonfall/main/screens/moonfall-loop.gif)](https://github.com/sacmaib80-cmyk/moonfall)
 
 A social-deduction game whose bots observe, build suspicion, avoid witnesses, pathfind, lie, and vote.
 
@@ -69,6 +75,8 @@ A deliberate native rewrite of SakuraQ with timestamp-safe timers and 22 tests a
 `Kotlin · Jetpack Compose · DataStore`
 
 **[Code Dojo](https://github.com/sacmaib80-cmyk/code-dojo)** · [live](https://sakuraq-b7f96.web.app/dojo/)
+
+[![Three people in one Code Dojo code room: remote carets, a remote pointer, and run output](https://raw.githubusercontent.com/sacmaib80-cmyk/code-dojo/main/screens/dojo-code-room.png)](https://github.com/sacmaib80-cmyk/code-dojo#code-room)
 
 A teaching site with 217 exercises across 21 progressively unlocked stages. The live version now also has shared code and flowchart rooms, multi-user cursors, TypeScript diagnostics, and saved code runs; the repository holds the standalone exercise app.
 
