@@ -16,6 +16,22 @@ A walkable fantasy hall built with a scripted Blender-to-Three.js pipeline. The 
 
 `Blender · Three.js · WebGL · 3D character animation`
 
+**[ROMNGAO](https://github.com/sacmaib80-cmyk/demo-sites)** · [walk through the house](https://sacmaib80-cmyk.github.io/demo-sites/estate/)
+
+[![A two-storey house at dusk with its lights on, surrounded by large trees, rendered from the site's 3D model](https://raw.githubusercontent.com/sacmaib80-cmyk/demo-sites/main/estate/art/sun-1745-960.webp)](https://sacmaib80-cmyk.github.io/demo-sites/estate/)
+
+A housing-development site for a fictional project. You can walk through every room in the browser, climb the stairs, and drag the time of day to change the light. The floor plan, 3D model, collision, and walking routes all read from one data file. The first screen is a still rendered from that model; the 3D scene loads only when you enter the house.
+
+`Three.js · WebGL2 · progressive rendering · no build step`
+
+**[ตั้งใจดี](https://github.com/sacmaib80-cmyk/demo-sites)** · [open the shop](https://sacmaib80-cmyk.github.io/demo-sites/order-bill/) · [owner view](https://sacmaib80-cmyk.github.io/demo-sites/order-bill/owner.html)
+
+[![A top-down market stall on blue tarpaulin with round trays of dried goods and a yellow paper bill](https://raw.githubusercontent.com/sacmaib80-cmyk/demo-sites/main/thumbs/order-bill.webp)](https://sacmaib80-cmyk.github.io/demo-sites/order-bill/)
+
+An ordering system for a fictional small shop: customers fill a paper-style bill and get a PromptPay QR, and the owner manages orders, prices, and products. It is designed for Google Sheets and Apps Script. The live demo runs that backend in the browser against a simulated Google, and it has not yet run on real Google services.
+
+`Vanilla JS · Google Apps Script · PromptPay QR`
+
 **[MERIDIAN ONE](https://github.com/sacmaib80-cmyk/meridian-pen)** · [live](https://sacmaib80-cmyk.github.io/meridian-pen/)
 
 A scroll-driven product site whose pen, internals, lighting, ink trace, and post-processing are generated live in raw WebGL2. No image or 3D-model assets.
