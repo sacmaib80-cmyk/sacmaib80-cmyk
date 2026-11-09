@@ -76,13 +76,13 @@ A peer-to-peer pixel fighter with four-character rooms, fixed-step simulation, c
 
 `React · Canvas 2D · WebRTC · Capacitor`
 
-**[Moonfall](https://github.com/sacmaib80-cmyk/moonfall)**
+**[Moonfall](https://github.com/sacmaib80-cmyk/moonfall)** · [play](https://sacmaib80-cmyk.github.io/moonfall/)
 
-[![A top-down village at dusk with villagers walking between houses around a campfire](https://raw.githubusercontent.com/sacmaib80-cmyk/moonfall/main/screens/moonfall-loop.gif)](https://github.com/sacmaib80-cmyk/moonfall)
+[![A black werewolf with red eyes on a cobbled path outside a lamp-lit village inn at night](https://raw.githubusercontent.com/sacmaib80-cmyk/moonfall/main/screens/wolf.png)](https://sacmaib80-cmyk.github.io/moonfall/)
 
-A social-deduction game whose bots observe, build suspicion, avoid witnesses, pathfind, lie, and vote.
+A real-time werewolf game in a 3D village modeled entirely in code, with line of sight that stops at walls and shutters that open. Playable in the browser against bots.
 
-`Vanilla JS · Canvas 2D · A* · headless balance simulation`
+`Three.js · WebGL · Node.js · WebSocket`
 
 **[SakuraQ Native](https://github.com/sacmaib80-cmyk/sakuraq-native)**
 
